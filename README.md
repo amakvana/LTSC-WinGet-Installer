@@ -20,7 +20,7 @@ A simple **Batch script** to enable and install **WinGet (Windows Package Manage
 ## 🚀 How to Use
 
 1. **Download the script**:
-   - [install-winget.bat](https://github.com/amakvana/LTSC-WinGet-Installer/raw/main/install-winget.bat)
+   - [install-winget.bat](https://github.com/amakvana/LTSC-WinGet-Installer/releases/latest)
 
 2. **Right-click** → **Run as Administrator**
 
