@@ -1,4 +1,4 @@
-![Platform](https://img.shields.io/badge/platform-Windows%20LTSC-orange?style=for-the-badge&logo=appveyor)
+![Platform](https://img.shields.io/badge/platform-Windows%20LTSC-green?style=for-the-badge&logo=appveyor)
 ![GitHub Release](https://img.shields.io/github/v/release/amakvana/LTSC-WinGet-Installer?style=for-the-badge&logo=appveyor)
 ![GitHub license](https://img.shields.io/github/license/amakvana/LTSC-WinGet-Installer?style=for-the-badge&logo=appveyor)
 ![GitHub all releases](https://img.shields.io/github/downloads/amakvana/LTSC-WinGet-Installer/total?style=for-the-badge&logo=appveyor)
